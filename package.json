@@ -1,0 +1,27 @@
+{
+  "name": "mint-fungible-spl",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Anshul-Ji/Test_Goken.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Anshul-Ji/Test_Goken/issues"
+  },
+  "homepage": "https://github.com/Anshul-Ji/Test_Goken#readme",
+  "dependencies": {
+    "@metaplex-foundation/js": "^0.18.3",
+    "@metaplex-foundation/mpl-token-metadata": "^2.8.6",
+    "@solana/spl-token": "^0.3.7",
+    "@solana/web3.js": "^1.73.3",
+    "ts-node": "^10.9.1"
+  }
+}
